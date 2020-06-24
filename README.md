@@ -9,7 +9,7 @@ Basic Usage
 The repository is currently compatible with tensorflow-2.0 and makes use of the Keras API using the tensorflow.keras library.
 
 First, clone the repository and enter the folder
-git clone https://github.com/atulapra/Emotion-detection.git
+git clone https://github.com/Anees-baig/Emotion-detection.git
 cd Emotion-detection
 Download the FER-2013 dataset from here and unzip it inside the src folder. This will create the folder data.
 
